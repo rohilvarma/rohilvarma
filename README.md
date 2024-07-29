@@ -16,4 +16,4 @@ I'm currently working as a software engineer in India, and I'm currently focused
 - Aiming next for Django.
 
 ## I'm currently working with 🛠️
-[![My Skills](https://skillicons.dev/icons?i=next,react,ts,tailwindcss,prisma,vercel,java,python,docker,linux,azure,supabase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=next,ts,tailwindcss,vercel,supabase,python,fastapi)](https://skillicons.dev)
