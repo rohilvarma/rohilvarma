@@ -17,4 +17,4 @@ Projects I want to release by the EOY
 - **GitLines** - A script that counts total number of lines written and the languages used and present stats.
 
 ## I'm currently working with 🛠️
-[![My Skills](https://skillicons.dev/icons?i=next,ts,tailwindcss,vercel,supabase,python,fastapi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=next,ts,tailwindcss,vercel,supabase,django,fastapi,python)](https://skillicons.dev)
