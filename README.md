@@ -1,4 +1,3 @@
-trying to make things easier
 <h1 align="left">Hey there👋 </h1>
 
 ```python
@@ -15,7 +14,10 @@ me: SoftwareEngineer = SoftwareEngineer()
 me.say_hi()
 ```
 
-## I'm currently working with 🛠️
-[![My Skills](https://skillicons.dev/icons?i=next,ts,tailwindcss,angular,vercel,supabase,django,python)](https://skillicons.dev)
+## 🛠️ Tech Stacks
 
+### 🚀 N3 Stack
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=next,authjs,neon)
 
+### ⚡ ATS Stack
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=angular,tailwind,supabase)
