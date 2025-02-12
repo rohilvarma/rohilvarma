@@ -13,11 +13,3 @@ class SoftwareEngineer:
 me: SoftwareEngineer = SoftwareEngineer()
 me.say_hi()
 ```
-
-## 🛠️ Tech Stacks
-
-### 🚀 N3 Stack
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=next,authjs,neon)
-
-### ⚡ ATS Stack
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=angular,tailwind,supabase)
